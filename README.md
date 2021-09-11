@@ -10,6 +10,6 @@ A Simple TCP Ping Command Line Tool Build Using Objective-C For macOS
 ```bash
 $ git clone https://github.com/krishpranav/pingc
 $ cd pingc
-$ cc -framework Foundation -o pingc main.m
+$ open pingc.xcodeproj
+$ build it and run it
 ```
-
