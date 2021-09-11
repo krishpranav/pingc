@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021, Krisna Pranav
+ *
+ * SPDX-License-Identifier: MIT License
+*/
+
 #import <Foundation/Foundation.h>
 
 NS_ASSUME_NONNULL_BEGIN
