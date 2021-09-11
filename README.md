@@ -13,4 +13,3 @@ $ cd pingc
 $ cc -framework Foundation -o pingc main.m
 ```
 
-- or download the [release]()
