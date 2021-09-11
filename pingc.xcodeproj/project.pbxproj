@@ -29,6 +29,7 @@
 		9F8892A326ECCE77004AD36D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9F8892A926ECCEA7004AD36D /* version.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = version.h; sourceTree = "<group>"; };
 		9F8892AA26ECCF14004AD36D /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		9F8892AB26ECCF80004AD36D /* consoleio.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = consoleio.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 			children = (
 				9F88929826ECCCE9004AD36D /* main.m */,
 				9F8892A926ECCEA7004AD36D /* version.h */,
+				9F8892AB26ECCF80004AD36D /* consoleio.h */,
 			);
 			path = pingc;
 			sourceTree = "<group>";
