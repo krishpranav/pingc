@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9F88929926ECCCE9004AD36D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F88929826ECCCE9004AD36D /* main.m */; };
+		9F8892AF26ECD6A8004AD36D /* gcdasyncsocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F8892AE26ECD6A8004AD36D /* gcdasyncsocket.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +33,7 @@
 		9F8892AB26ECCF80004AD36D /* consoleio.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = consoleio.h; sourceTree = "<group>"; };
 		9F8892AC26ECD4C5004AD36D /* tcping.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tcping.h; sourceTree = "<group>"; };
 		9F8892AD26ECD666004AD36D /* gcdasyncsocket.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gcdasyncsocket.h; sourceTree = "<group>"; };
+		9F8892AE26ECD6A8004AD36D /* gcdasyncsocket.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gcdasyncsocket.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				9F8892AB26ECCF80004AD36D /* consoleio.h */,
 				9F8892AC26ECD4C5004AD36D /* tcping.h */,
 				9F8892AD26ECD666004AD36D /* gcdasyncsocket.h */,
+				9F8892AE26ECD6A8004AD36D /* gcdasyncsocket.m */,
 			);
 			path = pingc;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F8892AF26ECD6A8004AD36D /* gcdasyncsocket.m in Sources */,
 				9F88929926ECCCE9004AD36D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
