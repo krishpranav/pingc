@@ -26,6 +26,7 @@
 		9F88929526ECCCE9004AD36D /* pingc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = pingc; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F88929826ECCCE9004AD36D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9F8892A226ECCD71004AD36D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9F8892A326ECCE77004AD36D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		9F88928C26ECCCE9004AD36D = {
 			isa = PBXGroup;
 			children = (
+				9F8892A326ECCE77004AD36D /* README.md */,
 				9F8892A226ECCD71004AD36D /* .gitignore */,
 				9F88929726ECCCE9004AD36D /* pingc */,
 				9F88929626ECCCE9004AD36D /* Products */,
