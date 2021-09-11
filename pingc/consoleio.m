@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021, Krisna Pranav
+ *
+ * SPDX-License-Identifier: MIT License
+*/
+
 #import "consoleio.h"
 #import "version.h"
 
